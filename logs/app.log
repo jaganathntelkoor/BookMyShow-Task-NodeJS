@@ -1,0 +1,15 @@
+info:  Update matching score starts 
+info:   Fetching Active Company Details 
+info:   Fetched Active Company Details 
+info:   Get company additional details 
+info:   Calculating Matching Score 
+info:   Calculated Matching Score 
+info:   Calculating Keywords Matching Score 
+info:   Calculated Keywords Matching Score 
+info:   Score Storing to DB...... 
+info:   Stored Matching Scores 
+info:   Updated Project Matching State 
+info:   Update matching score ends 
+info: [26/Aug/2020:11:06:45 +0000] GET /project/updateMatchingScore?projectID=1 200 72 - 27724.604 ms
+
+info:  Update matching score starts 

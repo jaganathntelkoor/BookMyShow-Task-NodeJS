@@ -1,0 +1,13 @@
+{
+   "apps" : [{
+    "name": "BookMyShow API Services",
+    "script": "./app.js",
+    "node_args": "bin/www",
+    "env": {
+      "NODE_ENV": "development"
+    },
+    "env_production" : {
+       "NODE_ENV": "production"
+    }
+  }]
+}
